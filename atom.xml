@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xu.github.io</id>
-    <title>Gridea</title>
-    <updated>2022-03-28T02:35:29.107Z</updated>
+    <title>xu</title>
+    <updated>2022-03-28T02:41:03.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xu.github.io"/>
     <link rel="self" href="https://xu.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://xu.github.io/images/avatar.png</logo>
     <icon>https://xu.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, Gridea</rights>
+    <rights>All rights reserved 2022, xu</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://xu.github.io/post/hello-gridea/</id>
