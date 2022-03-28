@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://https://xupeiq.github.io/xu.github.io/</id>
-    <title>xu</title>
-    <updated>2022-03-28T04:06:23.871Z</updated>
+    <title>测试站点</title>
+    <updated>2022-03-28T04:07:15.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://https://xupeiq.github.io/xu.github.io/"/>
     <link rel="self" href="https://https://xupeiq.github.io/xu.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://https://xupeiq.github.io/xu.github.io/images/avatar.png</logo>
     <icon>https://https://xupeiq.github.io/xu.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, xu</rights>
+    <rights>All rights reserved 2022, 测试站点</rights>
 </feed>
